@@ -48,7 +48,7 @@ const LandingPage = () => {
                     </Link>
 
                     <a
-                        href={'http://github.com/devXprite/moviesPrix/'}
+                        href={'https://github.com/DevAbdelilah/moviesprix'}
                         className="text-sm md:text-base bg-muted inline-block text-white py-2.5 px-10 rounded-full font-semibold w-full text-foreground/75 border border-muted-foreground/25 hover:brightness-125 hover:scale-105 transition-all"
                     >
                         <Github className="size-5 inline mr-2" /> View On Github
@@ -58,8 +58,8 @@ const LandingPage = () => {
 
             <p className="absolute bottom-4 left-1/2 -translate-x-1/2 text-xs md:text-sm font-semibold text-muted-foreground w-full text-center">
                 Made by{' '}
-                <a href="https://github.com/devxprite/" target="_blank" className="underline">
-                    @devxprite
+                <a href="https://github.com/DevAbdelilah" target="_blank" className="underline">
+                    @DevAbdelilah
                 </a>
             </p>
         </div>
