@@ -13,7 +13,7 @@ const Sidebar = () => {
         <div className="w-72 max-md:hidden flex flex-col h-screen bg-card border-r ">
             <div className="p-2 px-6 border-b">
                 <h2 className="font-semibold text-center">
-                    <span className="text-gradient text-xl">MoviesPrix</span>
+                    <span className="text-gradient text-xl">Top Movies</span>
                 </h2>
             </div>
 
@@ -33,7 +33,7 @@ const Sidebar = () => {
                     </Link>
                 ))}
 
-                <a href="https://github.com/devxprite/moviesprix/" target="_blank" className="mt-auto">
+                <a href="https://github.com/DevAbdelilah/Top-Movies" target="_blank" className="mt-auto">
                     <Button variant={'secondary'} className="w-full">
                         <Github />
                         View Source

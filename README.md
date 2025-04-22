@@ -78,7 +78,7 @@ Top Movies is a modern movie discovery web application built with Next.js 15, of
 ## 🌐 Deployment
 
 The application is automatically deployed on Vercel:
-[https://moviesprix.vercel.app](https://moviesprix.vercel.app)
+[https://top-movies-bay.vercel.app](https://top-movies-bay.vercel.app/)
 
 [![Deployed with Vercel](https://vercel.com/button)](https://vercel.com/new)
 

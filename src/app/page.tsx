@@ -32,7 +32,7 @@ const LandingPage = () => {
                     </AnimatedGradientText>
                 </div>
                 <h1 className="text-3xl md:text-7xl font-bold mb-4">
-                    <span className="text-gradient">Moviesprix</span>
+                    <span className="text-gradient">Top Movies</span>
                 </h1>
 
                 <p className="text-muted-foreground max-w-2xl text-base md:text-2xl">
